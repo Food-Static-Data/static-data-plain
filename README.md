@@ -17,3 +17,7 @@ https://github.com/GroceriStar/static-data-website
 
 
 https://github.com/sheerun/babel-plugin-file-loader
+
+
+
+https://github.com/ChickenKyiv/creative/blob/master/schemes-sitemaps/RecipeBasicSchema.png
