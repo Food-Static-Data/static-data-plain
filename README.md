@@ -20,4 +20,12 @@ https://github.com/sheerun/babel-plugin-file-loader
 
 
 
+
+
 https://github.com/ChickenKyiv/creative/blob/master/schemes-sitemaps/RecipeBasicSchema.png
+
+
+
+https://github.com/takeitallsource/awesome-autonomous-vehicles#datasets
+
+https://github.com/foodopendata/food-datasets
