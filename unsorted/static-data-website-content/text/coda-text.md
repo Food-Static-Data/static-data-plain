@@ -53,6 +53,7 @@ if we will move whole fetch plugin at ES6 version, we'll need to replace JSON fi
 into JS arrays, because JSON has issues with our babel builds before
 
 -----
+
 So maybe whole idea, realted to split are good and maybe we should start it right away.
 
 ----
