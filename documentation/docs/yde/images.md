@@ -1,7 +1,3 @@
-
-
-
-
 ---
 id: images
 title: Images
@@ -16,8 +12,10 @@ sidebar_label: Images
 #### Grocery list
 ![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/grocery-list-structure.png)
 
+
 #### Ingredient
 ![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/ingredient-structure.png)
+
 
 #### Measurements
 ![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/measurements-structure.png)

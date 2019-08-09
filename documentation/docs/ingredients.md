@@ -7,10 +7,18 @@ sidebar_label: Ingredients example
 
 #### Title
 
-Text aka details
+Ingredients
+
+```
+An ingredient is a substance that forms part of a mixture (in a general sense). For example, in cooking, recipes specify which ingredients are used to prepare a specific dish
+```
+
+<!-- #### Image
+![]() - Image that show an example of what file is containing -->
 
 #### Image
-![]() - Image that show an example of what file is containing
+![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/ingredient-structure.png)
 
-#### Download link
-[]()
+
+<!-- #### Download link
+[]() -->
