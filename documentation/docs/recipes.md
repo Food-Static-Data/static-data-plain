@@ -9,9 +9,9 @@ sidebar_label: Recipe examples
 
 
 
-```
-A recipe is a set of instructions that describes how to prepare or make something, especially a culinary dish.
-```
+>
+> A recipe is a set of instructions that describes how to prepare or make something, especially a culinary dish.
+>
 
 #### Image
 ![](https://raw.githubusercontent.com/GroceriStar/creative/master/) - Image that show an example of what file is containing
