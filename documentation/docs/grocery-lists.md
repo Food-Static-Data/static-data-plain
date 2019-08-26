@@ -16,7 +16,7 @@ The shopping list itself may be simply a scrap piece of paper or something more 
 
 #### Image
 #### Grocery list
-![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/grocery-list-structure.png)
+![](https://raw.githubusercontent.com/GroceriStar/creative/master/fetch-examples/grocery-list-structure.png)
 
 
 <!-- #### Download link
