@@ -5,9 +5,9 @@ sidebar_label: Recipe examples
 ---
 
 
-#### Title
+#### Recipe
 
-Recipe
+
 
 ```
 A recipe is a set of instructions that describes how to prepare or make something, especially a culinary dish.

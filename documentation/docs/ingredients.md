@@ -5,9 +5,9 @@ sidebar_label: Ingredients example
 ---
 
 
-#### Title
+#### Ingredients
 
-Ingredients
+
 
 ```
 An ingredient is a substance that forms part of a mixture (in a general sense). For example, in cooking, recipes specify which ingredients are used to prepare a specific dish

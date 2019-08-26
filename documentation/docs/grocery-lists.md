@@ -5,9 +5,9 @@ sidebar_label: Grocery Lists example
 ---
 
 
-#### Title
+#### Grocery List
 
-Grocery List
+
 ```
 A grocery list is a list of items needed to be purchased by a shopper. Consumers often compile a shopping list of groceries to purchase on the next visit to the grocery store (a grocery list). The shopping list was known 2000 years B.C. in ancient Mesopotamia. There are surviving examples of Roman and Biblical shopping lists.
 
