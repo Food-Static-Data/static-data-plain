@@ -5,9 +5,8 @@ sidebar_label: Food Attributes example
 ---
 
 
-#### Title
+#### Food Attributes
 
-Food Attributes
 
 ```
 Each recipe have set of different things, that can help us to filter this recipe.
