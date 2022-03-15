@@ -6,6 +6,7 @@
 "import": "node bin/recipes/001-import.js",
 "grocery": "node bin/grocery/001-import.js",
 "search": "node bin/search/import.js",
+
 "g": "npm run migrate-grocery && nodemon bin/grocery/import.js",
 "r": "npm run migrate-recipes && nodemon bin/recipes/import.js",
 "s": "npm run migrate-search  && nodemon bin/search/import.js",

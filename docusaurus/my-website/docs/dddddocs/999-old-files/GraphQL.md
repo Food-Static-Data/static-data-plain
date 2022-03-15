@@ -1,5 +1,5 @@
 ---
-id: GraphQL
+
 title: GraphQL
 ---
 

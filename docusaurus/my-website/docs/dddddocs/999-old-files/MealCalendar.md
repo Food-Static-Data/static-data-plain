@@ -1,5 +1,5 @@
 ---
-id: mealcalendar-project
+
 title: Methods, related to Meal Calendar project
 sidebar_label: Meal Calendar project
 ---

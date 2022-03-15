@@ -1,5 +1,5 @@
 ---
-id: groceristar-project
+
 title: Methods, related to GroceriStar project
 sidebar_label: GroceriStar project
 ---

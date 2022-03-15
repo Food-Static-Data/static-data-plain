@@ -1,8 +1,10 @@
 ---
-id: chickenkyiv-project
 title: Methods, related to ChickenKyiv project
 sidebar_label: ChickenKyiv project
 ---
+
+
+
 
 #### Importing ChickenKyiv module
 ```
