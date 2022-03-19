@@ -20,7 +20,7 @@ const sidebars = {
   }],
 
   // But you can create a sidebar manually
-  /*
+
   tutorialSidebar: [
     {
       type: 'category',
@@ -28,7 +28,26 @@ const sidebars = {
       items: ['hello'],
     },
   ],
-   */
+
+
+  // docsSidebar: [
+  //   {
+  //     type: 'category',
+  //     label: 'Documentation',
+  //     items: [
+  //       "intro",
+  //       "chickenkyiv-project",
+  //       "groceristar-project",
+  //       "mealcalendar-project",
+  //       "searchapi-project",
+  //       "searchform-project",
+  //       "GraphQL",
+  //       "Selector",
+  //       "stretch-goals",        
+  //     ]
+  //   }
+  // ]
+
 };
 
 module.exports = sidebars;

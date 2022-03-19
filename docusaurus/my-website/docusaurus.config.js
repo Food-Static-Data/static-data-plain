@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  title: 'GroceriStar Fetch Module',
+  tagline: 'Documentation for Food Tech projects',
+  url: 'https://groceristar.github.io',
+  baseUrl: '/static-food-data-documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'groceristar', // Usually your GitHub org/user name.
+  projectName: 'static-food-data-documentation', // Usually your repo name.
 
   presets: [
     [
@@ -46,7 +46,7 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/LOGO1.png',
         },
         items: [
           {
@@ -56,8 +56,16 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+
+
+          // {doc: 'summary', label: 'Summary'},
+          // {href : 'https://github.com/GroceriStar/groceristar-fetch/', label: 'GitHub'},
+          // {page: 'help', label: 'Help'},
+
+
+
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/GroceriStar/groceristar-fetch',
             label: 'GitHub',
             position: 'right',
           },
@@ -78,18 +86,18 @@ const config = {
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+              // {
+              //   label: 'Stack Overflow',
+              //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              // },
+              // {
+              //   label: 'Discord',
+              //   href: 'https://discordapp.com/invite/docusaurus',
+              // },
+              // {
+              //   label: 'Twitter',
+              //   href: 'https://twitter.com/docusaurus',
+              // },
             ],
           },
           {
@@ -101,12 +109,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/GroceriStar/groceristar-fetch',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Food Static Data, Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

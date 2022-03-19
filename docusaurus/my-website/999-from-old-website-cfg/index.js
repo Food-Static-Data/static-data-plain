@@ -123,6 +123,10 @@ const FeatureCallout = props => (
   <div
     className="showcaseSection paddingBottom"
     style={{textAlign: 'center'}}>
+
+
+
+      
     <h2>Table of contents</h2>
       <div className = "tableofcontents" style={{margin: '0px 150px'}}>
 
