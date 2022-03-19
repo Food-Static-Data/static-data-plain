@@ -8,8 +8,8 @@ sidebar_label: Food Attributes example
 
 
 >
->Each recipe have set of different things, that can help us to filter this recipe.
->diets, allergy, etc. can be united by a term of an attribute
+> Each recipe have set of different things, that can help us to filter this recipe.
+> diets, allergy, etc. can be united by a term of an attribute
 >
 
 #### Image
