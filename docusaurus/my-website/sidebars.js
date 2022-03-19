@@ -25,7 +25,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Tutorial',
-      items: ['hello'],
+      items: ['dddddocs/food-attributes'],
     },
   ],
 
