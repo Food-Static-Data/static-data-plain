@@ -1,32 +1,12 @@
 
 
-
-
-
 const Logo = props => (
   <div className="projectLogo">
     <img src={props.img_src} />
   </div>
 );
 
-const ProjectTitle = props => (
-  <h2 className="projectTitle">
-    {siteConfig.title}
-    <small>
-    {siteConfig.tagline}
-    </small>
-  </h2>
-);
 
-const PromoSection = props => (
-  <div className="section promoSection">
-    <div className="promoRow">
-      <div className="pluginRowBlock">
-      {props.children}
-      </div>
-    </div>
-  </div>
-);
 
 class HomeSplash extends React.Component {
   render() {
@@ -53,6 +33,8 @@ class HomeSplash extends React.Component {
 //   </Container>
 // );
 
+
+
 const MainPage = props => (
   <div
     className="showcaseSection paddingBottom"
@@ -67,6 +49,9 @@ const MainPage = props => (
       </div>
   </div>
 );
+
+
+
 
 const FeatureCallout = props => (
   <div
