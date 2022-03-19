@@ -2,8 +2,10 @@ import React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
+
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
+
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 function HomepageHeader() {
@@ -26,6 +28,8 @@ function HomepageHeader() {
 
 
           133333
+
+
         </div>
       </div>
     </header>
@@ -38,10 +42,12 @@ export default function Home() {
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
+
       <HomepageHeader />
       <main>
         <HomepageFeatures />
       </main>
+      
     </Layout>
   );
 }
