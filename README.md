@@ -32,10 +32,14 @@ Streach goals:
 - [ ] https://github.com/ChickenKyiv/creative/blob/master/schemes-sitemaps/RecipeBasicSchema.png
 
 
-
-- [ ] https://github.com/takeitallsource/awesome-autonomous-vehicles#datasets
+### FoodOpenData repositories
 
 - [ ] https://github.com/foodopendata/food-datasets
+- [ ] https://github.com/foodopendata/food-allergens-ch
+- [ ] https://github.com/foodopendata
+- [ ] https://github.com/foodopendata/food-datasets/blob/master/data/food-datasets.csv
+- [ ] https://food.opendata.ch/ (there is a great section from the bottom of website)
+
 
 ----------------
 -------------
