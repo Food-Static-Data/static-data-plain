@@ -186,4 +186,3 @@ sidebar_label: Images
 
 ![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/measurements2.png)
 
-
