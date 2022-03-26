@@ -158,15 +158,10 @@ Each recipe have set of different things, that can help us to filter this recipe
 diets, allergy, etc. can be united by a term of an attribute
 ```
 
-
-
-### Images
-
 ---
-id: images
-title: Images
-sidebar_label: Images
----
+
+## Images
+
 
 #### Food/Ingredient Departments
 
