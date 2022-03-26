@@ -158,3 +158,32 @@ Each recipe have set of different things, that can help us to filter this recipe
 diets, allergy, etc. can be united by a term of an attribute
 ```
 
+
+
+### Images
+
+---
+id: images
+title: Images
+sidebar_label: Images
+---
+
+#### Food/Ingredient Departments
+
+![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/departments-structure.png)
+
+
+#### Grocery list
+![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/grocery-list-structure.png)
+
+
+#### Ingredient
+![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/ingredient-structure.png)
+
+
+#### Measurements
+![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/measurements-structure.png)
+
+![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/measurements2.png)
+
+
