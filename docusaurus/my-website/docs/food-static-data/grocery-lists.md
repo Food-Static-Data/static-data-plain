@@ -14,6 +14,9 @@ sidebar_label: Grocery Lists example
 >
 
 #### Image
+
+![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/grocery-list-structure.png)
+
 #### Grocery list
 ![](https://raw.githubusercontent.com/GroceriStar/creative/master/fetch-examples/grocery-list-structure.png)
 

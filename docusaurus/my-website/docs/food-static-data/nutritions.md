@@ -16,6 +16,10 @@ sidebar_label: Nutritions example
 #### Image
 ![](https://raw.githubusercontent.com/GroceriStar/creative/master/) - Image that show an example of what file is containing
 
+![](https://raw.githubusercontent.com/GroceriStar/creative/master/fetch-examples/nutrition.png)
+
+
+
 #### Download link
 [](https://github.com/GroceriStar/static-data-plain/blob/master/data/clean/Nutrition/nutritions1.json)
 [](https://github.com/GroceriStar/static-data-plain/blob/master/data/clean/Nutrition/nutritions2.json)

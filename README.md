@@ -177,7 +177,18 @@ diets, allergy, etc. can be united by a term of an attribute
 
 
 #### Measurements
+
 ![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/measurements-structure.png)
 
 ![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/measurements2.png)
 
+
+#### Nutrition
+
+![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/nutrition.png)
+
+#### HealthLabel
+
+![](https://github.com/GroceriStar/creative/blob/master/fetch-examples/healthLabels.png)
+
+![](https://raw.githubusercontent.com/GroceriStar/creative/master/fetch-examples/recipe.png)

@@ -16,5 +16,8 @@ sidebar_label: Recipe examples
 #### Image
 ![](https://raw.githubusercontent.com/GroceriStar/creative/master/) - Image that show an example of what file is containing
 
+![](https://raw.githubusercontent.com/GroceriStar/creative/master/fetch-examples/recipe.png)
+
+
 #### Download link
 [Recipes dataset](https://github.com/GroceriStar/static-data-plain/blob/master/data/clean/Recipe/Recipe4/recipe.json)
